@@ -4,12 +4,12 @@
 
 启动项目前，必需先搭建该项目的后端服务环境：
 
-如何搭建后端环境，请参考：[mihu-cms-koa](https://github.com/mihu915/mihu-cms-koa.git)
+如何搭建后端环境，请参考：[Vue3-CMS-Koa](https://github.com/loclink/vue3-cms-koa)
 
 ## 二、项目预览：
 
 测试环境预览：
-http://t-cms.tj520.top
+http://cms.tj520.top
 
 ## 三、开始使用：
 
