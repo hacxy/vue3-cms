@@ -42,9 +42,14 @@ export default defineComponent({
       password = ''
     }
 
+    // const account = reactive({
+    //   username: localCache.getCache('username'),
+    //   password
+    // })
+
     const account = reactive({
-      username: localCache.getCache('username'),
-      password
+      username: 'admin123',
+      password: 'admin123'
     })
 
     watch(
