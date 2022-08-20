@@ -10,7 +10,7 @@
     >
       <div class="cms-menu-title">
         <img class="logo" src="~@/assets/img/logo.svg" alt="logo" />
-        <span class="title" v-if="isCollapse">Mihu_CMS</span>
+        <span class="title" v-if="isCollapse">Vue3_CMS</span>
       </div>
 
       <template v-for="(item, index) of userMenus" :key="index">

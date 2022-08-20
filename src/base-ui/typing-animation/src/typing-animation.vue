@@ -13,7 +13,7 @@ export default defineComponent({
     onMounted(() => {
       new Typed(typingRef.value!, {
         strings: [
-          'MHCMS是基于Vue3、Vuex、VueRouter、WebPack、ElementPlus、TypeScript、Echart5等技术的后台系统解决方案。'
+          'VUE3CMS是基于Vue3、Vuex、VueRouter、WebPack、ElementPlus、TypeScript、Echart5等技术的后台系统解决方案。'
         ], //输入内容, 支持html标签
         typeSpeed: 70, //打字速度
         backSpeed: 50 //回退速度
